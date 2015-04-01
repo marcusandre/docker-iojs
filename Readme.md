@@ -1,7 +1,7 @@
 
-# io.js 1.6.1
+# io.js 1.6.3
 
-  This [Dockerfile](http://docker.io/) installs [io.js](http://iojs.org/) in version 1.6.1.
+  This [Dockerfile](http://docker.io/) installs [io.js](http://iojs.org/) in version 1.6.3.
 
 ## Usage
 

@@ -1,11 +1,11 @@
 
 #
-# io.js v1.6.3
+# io.js v1.6.4
 #
 
 FROM ubuntu:14.04
 MAINTAINER Marcus André <hello@marcusandre.de>
-ENV VERSION 1.6.3
+ENV VERSION 1.6.4
 
 #
 # System

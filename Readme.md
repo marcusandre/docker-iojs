@@ -3,6 +3,8 @@
 
   This [Dockerfile](http://docker.io/) installs [io.js](http://iojs.org/) in version 1.6.4.
 
+  Also it is **deprecated**. Use [docker-nodejs](https://github.com/marcusandre/docker-nodejs)
+
 ## Usage
 
   Use it as a dependency in your own Dockerfile with:
